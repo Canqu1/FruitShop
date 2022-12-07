@@ -1,4 +1,4 @@
-# PRJ301-project
+# Fuit Shop project
 A webapp to sell fruit using Java and HTML
 
 I. Main expected parts of the web app:
